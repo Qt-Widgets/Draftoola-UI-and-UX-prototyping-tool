@@ -1,0 +1,34 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>dark/close.svg</file>
+        <file>dark/plus.svg</file>
+        <file>dark/eye-off.svg</file>
+        <file>dark/eye.svg</file>
+        <file>dark/settings.svg</file>
+        <file>dark/chevron-right.svg</file>
+        <file>dark/chevron-down.svg</file>
+        <file>dark/delete-24px.svg</file>
+        <file>dark/frame-all-lock.svg</file>
+        <file>dark/frame-free.svg</file>
+        <file>dark/frame-horizontal-lock.svg</file>
+        <file>dark/frame-vertical-lock.svg</file>
+        <file>dark/tools/ellipse.svg</file>
+        <file>dark/tools/fountain-pen-tip.svg</file>
+        <file>dark/tools/image.svg</file>
+        <file>dark/tools/line.svg</file>
+        <file>dark/tools/pentagon.svg</file>
+        <file>dark/tools/presentation.svg</file>
+        <file>dark/tools/rectangle.svg</file>
+        <file>dark/tools/star.svg</file>
+        <file>dark/tools/triangle.svg</file>
+        <file>dark/tools/format-textbox.svg</file>
+        <file>dark/tools/format-text-variant.svg</file>
+        <file>dark/colordialog/color.svg</file>
+        <file>dark/colordialog/conical_gradient.png</file>
+        <file>dark/colordialog/image.svg</file>
+        <file>dark/colordialog/linear_gradient.png</file>
+        <file>dark/colordialog/radial_gradient.png</file>
+        <file>dark/colordialog/radial_gradient_alt.png</file>
+        <file>dark/folder-open.svg</file>
+    </qresource>
+</RCC>
